@@ -12,3 +12,4 @@ at docs to read. I'll add other small projects as I do them.
 the usage of mutex when creating cache.
 - [ ] Refactor some of the projects, e.g., the handler functions in chirpy should move out of main.go
 - [ ] Document
+- [ ] Need to modify path in some locations, i.e., "jjohnson99/project_name" -> "jjohnson/smallprojects/project_name"

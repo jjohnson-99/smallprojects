@@ -33,5 +33,11 @@ The api paginates the location-areas, each page containing 20 locations. Calling
 ## The pokedex command
 Prints a list of pokemon you have caught.
 
+### To run
+Type `go build .` then `go run .`
+
+### Did I enjoy this project?
+Sure, who doesn't love unmarshalling data into structs with json flags?
+
 ### Todo
 - [ ] Add documentation.
